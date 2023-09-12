@@ -59,6 +59,7 @@
 
   .loadingdiv{
     opacity: 0;
+    cursor: pointer;
   }
 }
 
